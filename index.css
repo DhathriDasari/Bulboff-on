@@ -1,0 +1,27 @@
+*{
+    background-color: #5B7C99;
+}
+h1{
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    margin-top: 5rem;
+}
+img{
+    width:200px;
+    height:200px;
+    border-radius: 40%;
+}
+
+button{
+    padding: 7px 14px;
+    background-color: rgb(27, 57, 158);
+    color: #fff;
+    font-size:15px;
+    border: none;
+    cursor: pointer;
+  }
